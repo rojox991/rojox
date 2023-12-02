@@ -1,1 +1,1 @@
-rand 0 100 > archivo.txt
+%RANDOM% > archivo.txt
