@@ -1,2 +1,1 @@
-del archivo.txt
-echo "Este es el texto" > archivo.txt
+rand 0 10000 > archivo.txt
