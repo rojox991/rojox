@@ -1,1 +1,1 @@
-%RANDOM% > archivo.txt
+echo %RANDOM% > archivo.txt
