@@ -1,0 +1,1 @@
+echo "Este es el texto" > archivo.txt
