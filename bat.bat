@@ -1,1 +1,1 @@
-rand 0 10000 > archivo.txt
+rand 0 100 > archivo.txt
